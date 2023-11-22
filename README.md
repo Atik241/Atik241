@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atik241
 - 👀 I’m interested in Blockchain, Flutter, React, Laravel
-- 🌱 I’m currently learning Flutter
+- 🌱 I am currently experienced in ReactJs and NextJs.
 - 📫 How to reach me atikhabib241@gmail.com
 
 <!---
