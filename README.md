@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/atikjbc">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3578E5&center=true&vCenter=true&width=600&lines=SSoftware+Engineer+%7C+Full+Stack+Wizard;Building+Web+%26+Mobile+Solutions;4%2B+Years+of+Shipping+Code;Check+my+active+work+below!+%E2%86%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3578E5&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full+Stack;Building+Web+%26+Mobile+Solutions;4%2B+Years+of+Shipping+Code;Check+my+active+work+below!+%E2%86%93" alt="Typing SVG" />
   </a>
 
   <p align="center">
